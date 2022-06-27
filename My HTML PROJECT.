@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+ <title>This is my first webpage.</title>
+</head>
+<body>
+  <main>
+  <h1>This is my page.</h1>
+  <h3>This is a girl in a jacket.</h3>
+  <h4>And Mario friend.</h4>
+  </main>
+  <p>This is a paragraph.</p>
+<footer>
+  <p>Author:Elielso Francisco</p>
+</footer>
+<img src="img_girl.jpg" width="250px" alt="Girl in a jacket">
+<img src="mario.jpg" width="350px" alt="Mario friend">
+<a href="https://upload.wikimedia.org/wikipedia/commons/1/18/London_-_London_Eye.jpg">The london eye.</a>
+
+
+</body>
+</html>
